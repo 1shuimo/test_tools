@@ -1,0 +1,639 @@
+{
+    "page_idx_0": {
+        "text_0": {},
+        "text_1": {
+            "text_bbox": [
+                81,
+                137.51072692871094,
+                303.1073913574219,
+                165.45172119140625
+            ],
+            "text_content": " Part I – Aluminum ﬁlms"
+        },
+        "text_2": {
+            "text_bbox": [
+                81,
+                190.99864196777344,
+                500.3725891113281,
+                223.89096069335938
+            ],
+            "text_content": " G. F. Bastin* and H. J. M. Heijligers Laboratory of Solid State and Materials Chemistry, University of Technology, P.O. Box 513, NL-5600 MB Eindhoven, The Netherlands"
+        },
+        "text_3": {
+            "text_bbox": [
+                81,
+                254.91952514648438,
+                512,
+                366.3173828125
+            ],
+            "text_content": " A systematic database of thin-ﬁlm measurements on aluminum ﬁlms by electron probe microanalysis is presented. The measurements were performed between 3 and  \\mathbf{30\\;\\;k V}  accelerating voltage on ﬁlms of six different nominal thicknesses, ranging from 100 up to  \\mathbf{3200\\AA} A, which were deposited simultaneously on 20 different substrates, ranging between Be and Bi. The purpose of this work was to provide systematic data on which existing and future thin-ﬁlm analysis programs can be tested. A total of  \\mathbf{1060}\\,k  ratios for the ﬁlm element Al were collected and \\mathbf{872}\\ k  ratios for the various substrate elements from underneath the ﬁlms. Tests with our own most recent thin-ﬁlm analysis program, TFA, based on the double Gaussian PROZA96 procedure, on this database showed excellent performance: a mean value of 1.0093 for k_{\\mathrm{calc}}/k_{\\mathrm{meas}}  and a relative root-mean-square deviation of  \\mathbf{4.2457\\%}  in the histogram for the ﬁlm element. Copyright \\copyright 2000 John Wiley & Sons, Ltd."
+        },
+        "text_4": {},
+        "text_5": {
+            "text_bbox": [
+                45,
+                417.2267761230469,
+                285,
+                539.0762939453125
+            ],
+            "text_content": " The purpose of thin-ﬁlm correction procedures in electron probe microanalysis (EPMA) is to convert the measured \\mathbf{X} -ray intensities from ﬁlm (and/or substrate) elements into the correct thickness and composition of a ﬁlm on a substrate. It will be obvious that this conversion can only be made correctly if it is exactly known where the  \\mathbf{X} -rays are being produced as a function of depth in the specimen. This knowledge is commonly presented in terms of so- called \\phi(\\rho z) curves, in which \\phi  represents the number of \\mathbf{X} -ray photons produced and   \\rho z  the mass depth (product of density \\rho  and linear depth  z )."
+        },
+        "text_6": {
+            "text_bbox": [
+                45,
+                538.7392578125,
+                285,
+                626.9782104492188
+            ],
+            "text_content": " Although the correct analytical description of   \\phi(\\rho z) curves in pure bulk elements and compounds over a wide range in experimental conditions is difﬁcult enough in itself, it appears that a number of modern   \\phi(\\rho z) models are very successful in this respect. This can be judged from their impressive performance on the most difﬁcult analytical cases, e.g. the bulk analysis of the ultra-light elements B, C, N and O."
+        },
+        "text_7": {
+            "text_bbox": [
+                45,
+                624.2867431640625,
+                285,
+                725.0587768554688
+            ],
+            "text_content": " Nevertheless, a typical example of bulk analysis in specimens which are supposed to be homogeneous in depth must be considered as relatively simple compared with cases of thin-ﬁlm analysis where the geometry is much more complex, and where sharp discontinuities exist at the interfaces between ﬁlm(s) and substrate. The question arises, therefore, of how the x-ray generation as a function of mass depth should be described analytically for each of the elements in a ﬁlm–substrate combination, in the case that such discontinuities are present at each of the interfaces."
+        },
+        "text_8": {
+            "text_bbox": [
+                308,
+                385.186767578125,
+                548,
+                410.0938415527344
+            ],
+            "text_content": ""
+        },
+        "text_9": {
+            "text_bbox": [
+                308,
+                407.75531005859375,
+                548,
+                483.7263488769531
+            ],
+            "text_content": " A number of approaches have been presented in the lit- erature to deal with this problem. These are either based on (semi-)empirical approaches,   in which the   \\phi(\\rho z) curves of each of the ﬁlm elements are modiﬁed empiri- cally according to the speciﬁc ﬁlm–substrate combination at hand, or on more fundamental approaches using Monte Carlo procedures. ,"
+        },
+        "text_10": {
+            "text_bbox": [
+                308,
+                486.5867614746094,
+                548,
+                545.2853393554688
+            ],
+            "text_content": " In a number of previous papers   on the subject, we have given a general outline of the approach we developed in our own analytical description of   \\phi(\\rho z) curves for the elements in a ﬁlm–substrate combination, and the description of this procedure will brieﬂy be repeated here."
+        },
+        "text_11": {
+            "text_bbox": [
+                308,
+                542.9468383789062,
+                548,
+                770.6641845703125
+            ],
+            "text_content": " The simplest case of a thin ﬁlm–substrate combina- tion that can be conceived is that of two neighbouring elements in the periodic system. Since the processes of electron scattering and deceleration and those of  \\mathbf{X} -ray generation will be virtually the same in both elements, the   \\phi(\\rho z) curves for ﬁlm and substrate elements will be almost identical. As a result, either of them could be used to calculate the generated and emitted intensities from ﬁlm and substrate elements by partial integration between the appropriate limits. This simple approximation is known to work well as long as the difference in atomic number between ﬁlm and substrate element does not exceed, say, 3–4 units. With increasing difference in atomic number the difference in electron scattering properties between ﬁlm and substrate elements becomes noticeable and the \\mathbf{X} -ray production in the ﬁlm can be inﬂuenced substan- tially. If the substrate element is heavier, then the  \\mathbf{X} -ray production in the ﬁlm will be increased, and vice versa. Therefore, a correction has to be applied in order to deal with such differences."
+        }
+    },
+    "page_idx_1": {
+        "text_0": {
+            "text_bbox": [
+                45,
+                68.08277893066406,
+                285,
+                167.67779541015625
+            ],
+            "text_content": " In our latest   \\phi(\\rho z) bulk correction program (PRO- \\mathrm{ZA96^{6}} ), which is based on a double Gaussian description of   \\phi(\\rho z) curves,   we use, as the independent input param- eters, the surface ionization   \\phi(0) , the position  (\\rho z_{\\mathrm{m}})  of the maximum in \\phi(\\rho z) , the exponent  (\\alpha)  in the right-hand descending Gaussian branch, and the value of the integral of   \\phi(\\rho z) (area under the   \\phi(\\rho z) curve, FI). The latter is calculated using the atomic number correction of Pouchou and Pichoir."
+        },
+        "text_1": {
+            "text_bbox": [
+                45,
+                165.0467529296875,
+                285,
+                211.5419921875
+            ],
+            "text_content": " Using these four independent shape parameters, the shape of the   \\phi(\\rho z) curve is completely determined; the value of the exponent in the left-hand ascending Gaussian branch  (\\beta)  is calculated as a dependent variable."
+        },
+        "text_2": {
+            "text_bbox": [
+                45,
+                208.8358154296875,
+                285,
+                386.882080078125
+            ],
+            "text_content": " Turning back to the case of a thin ﬁlm on a substrate, we start from the basic assumption that the four inde- pendent Gaussian shape parameters for the   \\phi(\\rho z) curves of each of the elements in the ﬁlm vary between two extremes, which are typical of either extremely thin or extremely thick layers. In the latter case it will be clear that the bulk parameters of the ﬁlm element in question will be approached. In the former case, on the other hand, the parameters can be approximated by treating the ﬁlm element as if it were solved in the substrate. In all interme- diate cases the parameters will have to be composed from the two extremes, using weighting procedures, in which the Gaussian parameters for each particular element in each of the layers and in the substrate are assigned spe- ciﬁc weights, depending upon the distance from the layer examined."
+        },
+        "text_3": {
+            "text_bbox": [
+                45,
+                385.9732360839844,
+                285,
+                430.03802490234375
+            ],
+            "text_content": " Furthermore, it is assumed that the   \\rho z  scale in each particular \\phi(\\rho z) curve is continuous across interfaces, and that for each element in the ﬁlm–substrate system only one continuous   \\phi(\\rho z) curve needs to be calculated."
+        },
+        "text_4": {
+            "text_bbox": [
+                45,
+                429.7622985839844,
+                285,
+                540.32763671875
+            ],
+            "text_content": " Finally, it is assumed that only the   \\phi(\\rho z) curves for the ﬁlm elements are affected by the nature and the thickness of the other ﬁlms and the substrate, whereas those for the substrate elements are not. Whereas the former assumption seems to be reasonable, experimental evidence will have to show whether the assumption for the substrate elements really holds. This is precisely one of the reasons why, in our opinion, systematic databases of thin-ﬁlm measurements of the kind we supply here are extremely useful."
+        },
+        "text_5": {
+            "text_bbox": [
+                45,
+                537.6214599609375,
+                285,
+                650.0156860351562
+            ],
+            "text_content": " It is obvious that the procedure proposed here is based on a number of simplifying assumptions and it is only fair to say that these are not always corroborated by, e.g., Monte Carlo simulations.   These simulations often show that the \\phi(\\rho z) curves in the vicinity of an interface are not always smoothly varying Gaussians. In fact, they are often not smooth functions at all and they may show strong and rather unpredictable perturbations. It is very interesting, therefore, to ﬁnd out how well our procedure performs in practice, in spite of the severe simpliﬁcations used inside."
+        },
+        "text_6": {
+            "text_bbox": [
+                45,
+                647.3095092773438,
+                285,
+                770.5640869140625
+            ],
+            "text_content": " The ideal thin-ﬁlm correction procedure would be expected to calculate the correct emitted  \\mathbf{X} -ray intensities for a given ﬁlm thickness and composition, regardless of the nature of the substrate and the accelerating voltage used. It is questionable to what extent the existing proce- dures are indeed capable of such performance, because in our opinion there is a lack of systematic data on which the performance can be tested. An analysis of the available data in the literature ,   shows that, in spite of the fairly large number of data, there are only a limited number of ﬁlm–substrate combinations with extreme differences in atomic number. Besides, there appears to be a strong bias towards ﬁlms deposited on Si substrates, for obvious rea- sons. We therefore decided to set up large and systematic databases which contain measurements on a wide vari- ety of ﬁlm thicknesses of several elements, deposited on a wide range of substrates, ranging from Be to Bi, and measured over a wide range of accelerating voltages. In this paper, our results on aluminum ﬁlms of six different thicknesses are reported."
+        },
+        "text_7": {
+            "text_bbox": [
+                308,
+                66.32415771484375,
+                548,
+                167.70892333984375
+            ],
+            "text_content": ""
+        },
+        "text_8": {},
+        "text_9": {
+            "text_bbox": [
+                308,
+                230.14678955078125,
+                548,
+                375.45574951171875
+            ],
+            "text_content": " Our thin-ﬁlm treatment is essentially based on our latest \\mathrm{{PROZA^{6}}}   bulk correction program (PROZA96), in which a double Gaussian procedure is being used for a realistic description of   \\phi(\\rho z) curves. As pointed out before,   how- ever, we use a modiﬁed version of the original Merlet 7 procedure in the sense that we use the quantities   \\phi(0) (surface ionization),   \\rho z_{\\mathrm{m}}  [the position of the maximum in   \\phi(\\rho z)] , FI [the integral of   \\phi(\\rho z) , or the area under the   \\phi(\\rho z) curve], and   \\alpha  (the exponent in the right-hand descending Gaussian) as the four necessary independent variables. The dependent variable \\beta , which is used for the description of the left-hand ascending Gaussian, is calcu- lated through an iterative mathematical procedure."
+        },
+        "text_10": {
+            "text_bbox": [
+                308,
+                372.81085205078125,
+                548,
+                430.34527587890625
+            ],
+            "text_content": " In the discussion on our thin-ﬁlm approach that now follows, the superscript   i  will be used to denote the particular element under consideration, and the subscripts b, f and s will be used to indicate whether we are dealing with bulk, ﬁlm, or substrate quantities."
+        },
+        "text_11": {
+            "text_bbox": [
+                308,
+                427.70037841796875,
+                548,
+                594.3131103515625
+            ],
+            "text_content": " The actual thin-ﬁlm procedure starts with the calcula- tion of the bulk standard intensities for all of the elements in the ﬁlm–substrate combination. To this end, the \\alpha , \\phi(0) , \\rho z_{\\mathrm{m}}  and FI values for each element i  are being calculated according to the bulk PROZA96 program. In the same ﬁrst step, the   \\alpha -values for element i  radiation in all other elements   j  in ﬁlm and substrate are also calculated. In the next step, the \\alpha  values for the ﬁlm elements are com- posed on the basis of the bulk compositions in ﬁlm and substrate to yield the   \\alpha_{\\mathrm{b,f}}^{i}   and   \\alpha_{\\mathrm{b,s}}^{i}   quantities. Both of the latter quantities will be used later in a weighting proce- dure to establish the ﬁnal \\alpha^{i}   value typical of the complete ﬁlm–substrate combination. In a similar way, composed values of   \\phi(0) ,   \\rho z_{\\mathrm{m}}  and FI for the bulk compositions of ﬁlm and substrate are calculated for element   i  radiation."
+        },
+        "text_12": {
+            "text_bbox": [
+                308,
+                592.3626098632812,
+                548,
+                769.8751831054688
+            ],
+            "text_content": " The next and crucial step is to establish the depth of penetration   \\pmb{R}_{x}  for each element   i  radiation. Since there is no strict ‘end’ to a Gaussian curve, this presents something of a problem. In a previous publication,   where the surface-centered Gaussian model 1   was used, this was solved by taking  2.5/\\alpha_{\\mathrm{final}}^{i}   for each speciﬁc element as a convenient measure, since this ratio was found to represent the depth at which the original surface-centered Gaussian had dropped to less than  0.2\\%  of its ﬁctitious starting value   \\gamma . In the double Gaussian model,   \\alpha  operates in the right-hand (descending) branch only; it lies at hand, therefore, to suppose that the position   \\rho z_{\\mathrm{m}} , at which the maximum in   \\phi(\\rho z) occurs, has to be added to  2.5/\\alpha_{\\mathrm{final}}^{i} in order to ﬁnd the ‘end’ of the \\phi(\\rho z) curve. However, the ﬁnal   \\alpha^{i}   value is not known  a priori , because it has yet to be calculated from the \\alpha_{\\mathrm{b,f}}^{i}   and   \\alpha_{\\mathrm{b,s}}^{i}   values, using weighting laws that are supposed to weight the various contributions over the relevant mass depth region down to \\pmb{R}_{x} . Since R_{x}  is not known either, it is necessary to start an iterative procedure to arrive at the ﬁnal   \\alpha  value and, hence, R_{x} . The ﬁrst (crude) estimate for   \\pmb{R}_{x}  is obtained by averaging the constituent   (\\rho z_{\\mathrm{m}}^{i}+2.5/\\alpha^{i})   C values in the bulk of the ﬁlm and the substrate, and this mean value can then be used to generate a ﬁrst estimate for R_{x} . Next, a more accurate weighting procedure is started, in which the weight  (\\pmb{p})  of each contribution as a function of mass depth  (\\rho z)  is described by a fourth-degree polynomial:"
+        }
+    },
+    "page_idx_2": {
+        "text_0": {
+            "text_bbox": [
+                46,
+                66.34674072265625,
+                285,
+                189.46197509765625
+            ],
+            "text_content": ""
+        },
+        "text_1": {},
+        "text_2": {
+            "text_bbox": [
+                46,
+                221.19607543945312,
+                285,
+                376.2877197265625
+            ],
+            "text_content": " where   L  and   \\pmb{R} , which are both functions of   \\pmb{R}_{x}  only, are the double roots on the left- and right-hand sides of the polynomial, and   N  is a normalization factor that ensures the normalization under the \\pmb{p}(\\rho z)  curve. In fact, this weighting procedure is a variant to the one ﬁrst used by Pouchou and Pichoir.   However, these authors used the polynomial weighting procedure in order to generate sets of ﬁctitious bulk compositions, one set for each \\phi(\\rho z) parameter, from which all necessary \\phi(\\rho z) parameters in their double-parabolic model for each particular element in the ﬁlm–substrate combination were subsequently cal- culated. In our approach, on the other hand, the weighting is much more direct since we use the basic Gaussian parameters in a straightforward way."
+        },
+        "text_3": {
+            "text_bbox": [
+                46,
+                373.6667785644531,
+                285,
+                496.7840881347656
+            ],
+            "text_content": " In the iterative procedure for the determination of R_{x} , the roots used are -0.4\\,R_{x}  for L  and \\pmb{R}_{x}  for \\pmb{R} . Using these roots, a new value for \\pmb{R}_{x}  is calculated by integration over the \\pmb{p}  function [Eqn (1)]. The resulting value is normalized by dividing it by the integral of \\pmb{p}(\\rho z)  between 0 and   \\pmb{R} . The newly obtained   R_{x}  value is now compared with the previous one, and if the relative deviation is smaller than, say,  0.1\\% , the iteration procedure is stopped. If not, the latest \\pmb{R}_{x}  value is used to generate new L  and \\pmb{R}  values, and the weighting procedure is repeated until convergence is obtained. This is usually the case in less than three cycles."
+        },
+        "text_4": {
+            "text_bbox": [
+                46,
+                494.1391906738281,
+                285,
+                693.8961791992188
+            ],
+            "text_content": " The last problem that has to be solved is to ﬁnd the L and   \\pmb{R}  values, which apply to the weighting procedures aimed at ﬁnding the four independent Gaussian parame- ters, necessary to describe the \\phi(\\rho z) curves for each of the elements in the ﬁlm–substrate combination. These roots will be different for each of the Gaussian parameters. Provisional settings were found originally by a process of optimization on the (often conﬂicting) thin-ﬁlm data from the literature. Later, these settings were ﬁne-tuned by using our own databases, of which the present one on aluminum ﬁlms is an example. It must be emphasized, however, that this ﬁne-tuning process is merely neces- sary to ﬁnd the proper translation from the old to the new model, where different parameters with their differ- ent meanings are involved. It is not possible to ‘optimize’ a vast database of measurements with the relatively few parameters at hand, certainly not if the experimental con- ditions vary widely, as in the present case."
+        },
+        "text_5": {
+            "text_bbox": [
+                46,
+                691.1900024414062,
+                285,
+                772.1295776367188
+            ],
+            "text_content": " The double roots for the four Gaussian parameters can be summarized as in Table 1. It is clear from this table that more weight is assigned to the deeper regions in the specimen as far as \\alpha  is concerned, whereas \\phi(0) is mainly governed by the near-surface regions. Regarding the latter parameter, it is assumed that electrons scattered back from regions deeper than  0.5~R_{x}  will not be able to make it"
+        },
+        "text_6": {},
+        "text_7": {
+            "text_bbox": [
+                309,
+                176.3267822265625,
+                548,
+                200.1717987060547
+            ],
+            "text_content": " back to the surface and, consequently, cannot contribute to   \\phi(0) ."
+        },
+        "text_8": {
+            "text_bbox": [
+                309,
+                198.2213134765625,
+                548,
+                365.483154296875
+            ],
+            "text_content": " Once the Gaussian parameters for each of the elements in the ﬁlm have been obtained, the emitted intensities can be calculated by partial integration; 6   those for the ﬁlm elements between the   \\rho z  limits of zero and   T  (the ﬁlm thickness) and for the substrate elements from   T down to inﬁnity. Appropriate corrections for absorption have, of course, to be made. Taking the ratios to the intensities emitted from the bulk standards will ﬁnally give the calculated k  ratios which have to be compared with the measured values. This is, in short, the procedure followed in the present work. Normally, one would try to operate such a thin-ﬁlm program the other way around, i.e. try to determine the thickness and/or composition of a ﬁlm from measured k  ratios. Full details of this procedure can be found in one of our previous publications."
+        },
+        "text_9": {},
+        "text_10": {
+            "text_bbox": [
+                309,
+                416.8067626953125,
+                548,
+                573.019775390625
+            ],
+            "text_content": " Aluminum ﬁlms of six different nominal thicknesses (10, 20, 40, 80, 160 and  320\\,\\mathrm{\\nm})  were deposited by vac- uum evaporation on to polished pieces of 20 different substrate elements, ranging from Be to Bi, mounted in a single specimen mount. In order to avoid problems with simultaneously polishing materials with largely different hardnesses, small pieces of all substrate elements were mounted separately ﬁrst in copper-ﬁlled mounting resin and polished carefully. Next, small rectangular blocks of mounting resin, each containing a polished substrate spec- imen, were cut out and remounted together to produce the ﬁnal assembly of 20 polished substrate elements. In total, six such substrate assemblies were manufactured in order to accommodate six different ﬁlm thicknesses."
+        },
+        "text_11": {
+            "text_bbox": [
+                309,
+                570.3748779296875,
+                548,
+                649.8651123046875
+            ],
+            "text_content": " During each vacuum deposition run, identical ﬁlms were also deposited on crystals of rock salt and Si wafers. The former specimens were to be used for indepen- dent determination of the ﬁlm thicknesses by Ruther- ford backscattering spectroscopy (RBS), whereas the latter served incidentally for transmission electron microscopy (TEM) investigations of cross-sections."
+        },
+        "text_12": {
+            "text_bbox": [
+                309,
+                647.158935546875,
+                548,
+                748.6049194335938
+            ],
+            "text_content": " The ﬁlms deposited on rock salt could be lifted off easily by dissolving the salt in water. These specimens, when picked up on a TEM grid, were eminently suited to perform intensity measurements on unsupported ﬁlms. In combination with the measurements on the same ﬁlms on a variety of substrates, this provided the experimental possibility of accessing the surface ionization value   \\phi(0) by a process of extrapolation towards a ﬁlm thickness of zero. This will be the subject of a future paper."
+        },
+        "text_13": {
+            "text_bbox": [
+                309,
+                745.9600219726562,
+                548,
+                770.4994506835938
+            ],
+            "text_content": " The microprobe measurements on the ﬁlm (Al) and the substrate elements were carried out at accelerating voltages between 3 and 30~\\mathrm{kV} , using JEOL 733 and 8600 electron probe microanalyzers. Both instruments have x- ray take-off angles of  40^{\\circ} ."
+        }
+    },
+    "page_idx_3": {
+        "text_0": {
+            "text_bbox": [
+                46,
+                66.34674072265625,
+                285,
+                101.80957794189453
+            ],
+            "text_content": ""
+        },
+        "text_1": {},
+        "text_2": {
+            "text_bbox": [
+                46,
+                149.0867919921875,
+                285,
+                271.8927001953125
+            ],
+            "text_content": " Establishing the real thicknesses of the ﬁlms turned out to be a major problem; therefore, our primary efforts were concerned with this task. To begin with, there were only two really independent sources of information: RBS (carried out at Philips Research Laboratories, Eindhoven, The Netherlands) and Monte Carlo calculations.   In the latter approach the mass thicknesses are determined by iterative procedures, in which the results of the simulations are compared with the experimental measurements. The results obtained by the two techniques differed markedly, as can be judged from Table 2."
+        },
+        "text_3": {
+            "text_bbox": [
+                46,
+                269.206787109375,
+                285,
+                359.252685546875
+            ],
+            "text_content": " Assuming a bulk density of  2.70~\\mathrm{g~cm}^{-3}   for aluminum, the mass thicknesses aimed at would be 2.70, 5.40, 10.80, 21.60, 43.20, and  86.40~\\upmu\\mathrm{g~cm}^{-2} . It is clear that, e.g., RBS ﬁnds much larger thicknesses for the three thinner ﬁlms, whereas for the thicker ﬁlms increasingly lower ﬁlm thicknesses are found. With the Monte Carlo method, very much larger thicknesses are found than either the nominal or the RBS values over the full range."
+        },
+        "text_4": {
+            "text_bbox": [
+                46,
+                356.5465087890625,
+                285,
+                392.0025634765625
+            ],
+            "text_content": " The following remarks can be made concerning Table 2, where the paragraph letters below correspond to the foot- note letters in the table."
+        },
+        "text_5": {
+            "text_bbox": [
+                46,
+                394.04498291015625,
+                285,
+                495.00079345703125
+            ],
+            "text_content": " (a) The Monte Carlo program, using the measured k  ratios for Al  \\mathrm{K}\\alpha , was found to produce a consistent variation of 20\\%  in the mass thicknesses between 3 and 30\\;\\mathrm{kV} starting low and ending high, for both substrates. However, the results for a speciﬁc ﬁxed voltage were virtually independent of the atomic number of the substrate, which must be considered as a remarkably good achievement. The mean results over the voltage range have been reported here.\n\n"
+        },
+        "text_6": {
+            "text_bbox": [
+                46,
+                492.29461669921875,
+                285,
+                615.081298828125
+            ],
+            "text_content": " (b) The GMR ﬁlm program is the computer program written by Waldo. ,   We used the option in this program which is entirely based on the \\bar{\\mathrm{PA}}^{9}   (double- parabolic) procedure. This program was found to pro- duce up to 14\\%  variation in mass thicknesses on going from a Be to a Bi substrate for a ﬁxed accelerat- ing voltage. On the other hand, the dependence on accelerating voltage was much better. The results cal- culated for a Ti substrate, representing only moderate differences in atomic number between ﬁlm and sub- strate elements, are presented here."
+        },
+        "text_7": {},
+        "text_8": {
+            "text_bbox": [
+                309,
+                67.3067626953125,
+                548,
+                233.3414306640625
+            ],
+            "text_content": " (c) The TFA program, based on our own modiﬁcation of the surface-centered Gaussian Packwood/Brown approach,   is a predecessor to our present thin-ﬁlm analysis program. Its results varied by less than  5\\% between a Be and a Bi substrate and the results as a function of voltage were satisfactory. As was the case with the GMR program, the results calculated for a Ti substrate are presented here. It is clear that the results from the GMR and TFA programs do not show pro- nounced differences. In addition, they both show fair agreement with the mean results of the Monte Carlo program, contrary to the RBS results in many cases.\n\n (d) The last column in Table 2 represents the mass thick- nesses which were ﬁnally adopted in our database. The values are very close to the mean numbers in the"
+        },
+        "text_9": {
+            "text_bbox": [
+                309,
+                245.27923583984375,
+                548,
+                356.84527587890625
+            ],
+            "text_content": " It is remarkable that, with none of the techniques used, the expected ratio in the mass thicknesses of 1:2:4:8:16:32 , which was aimed at during the prepa- ration of the ﬁlms and which was supposed to be easy to achieve, was in fact attained. With RBS the ratios obtained were  1:1.88:3.66:6.69:12.07:25.07  and with Monte Carlo (mean)  1:2.01:3.97:7.09:13.94:25.14 . With the EPMA programs GMR ﬁlm and TFA sequences of 1:1.94:\\bar{3}.8\\bar{2}:6.99:13.56:23.65  and  1:1.95:\\bar{3}.85:7.06: : 13.77:24.06  were calculated, respectively."
+        },
+        "text_10": {
+            "text_bbox": [
+                309,
+                354.1667785644531,
+                548,
+                509.2894287109375
+            ],
+            "text_content": " In an isolated case (nominal  8\\dot{00}\\mathrm{~\\AA~} A, or 21.60\\;\\upmu\\mathrm{g\\;cm}^{-2}\\mathrm{)} ), a ﬁlm on  \\mathrm{NaCl}  was investigated in a cross-section in the transmission electron microscope (JEOL 2000 FX). Thick- nesses corresponding to  25~\\upmu\\mathrm{g~cm}^{-2}   (assuming the bulk density for Al) and slightly higher were thereby found, thus corroborating the Monte Carlo and EPMA (GMR and TFA) results, rather than the RBS data. Apparently, it is extremely difﬁcult to ﬁnd the ‘true’ ﬁlm thicknesses. How- ever, we want to emphasize most strongly that, even if the true ﬁlm thicknesses will presumably never be known with 100\\%  certainty, the measurements on such (our present) specimens are still extremely useful because it can safely be assumed that the same mass thickness applies to each of the various substrates."
+        },
+        "text_11": {
+            "text_bbox": [
+                309,
+                506.52197265625,
+                548,
+                683.4039916992188
+            ],
+            "text_content": " The EPMA measurements for Al  \\mathrm{K}\\alpha  were carried out as a function of atomic number of the substrate, starting with Be and ending with Bi for each speciﬁc accelerating voltage. After calibration of the Al \\mathrm{K}\\alpha  peak with a TAP analyzer crystal on the Al bulk standard, a minimum of 10 intensity measurements were performed in each case and the mean k  ratio was used as the entry in the ﬁnal database. This measuring procedure has the speciﬁc advantage of disclosing immediately any erratic behavior in the variation of the intensity of the Al  \\mathrm{K}\\alpha  peak with atomic number of the substrate, a variation which must be assumed to be smooth. Moreover, one would expect the signal to increase monotonically with the atomic number of the substrate. Any sudden increase in the signal might point to a case of ﬂuorescence, e.g. if the Al ﬁlm is on a Si substrate."
+        },
+        "text_12": {
+            "text_bbox": [
+                309,
+                680.6365356445312,
+                548,
+                737.8033447265625
+            ],
+            "text_content": " Figure 1 shows some of the results which can typically be obtained in the measurements as a function of atomic number of the substrate at an accelerating voltage of  15\\,\\mathrm{kV} for the ﬁlms with nominal thicknesses of 100 (top) and 400  A (bottom)."
+        },
+        "text_13": {
+            "text_bbox": [
+                309,
+                735.09716796875,
+                548,
+                770.4306640625
+            ],
+            "text_content": " Figure 2 shows similar results, but now for the ﬁlm with a nominal thickness of  800\\textup{\\AA} A, at accelerating voltages of 20 (top) and 25~\\mathrm{kV}  (bottom)."
+        }
+    },
+    "page_idx_4": {
+        "text_0": {},
+        "text_1": {
+            "text_bbox": [
+                46,
+                492.1667785644531,
+                285,
+                571.9634399414062
+            ],
+            "text_content": " It is evident from these results that remarkable agree- ment exists between the measurements and the calcula- tions and that, in general, measurements with a smooth variation can indeed be obtained. The only case where noticeable and persistent deviations exist is where a sil- icon substrate  (Z\\,=\\,14) ) is involved, and this must be attributed to ﬂuorescence."
+        },
+        "text_2": {
+            "text_bbox": [
+                46,
+                569.3798217773438,
+                285,
+                682.2938842773438
+            ],
+            "text_content": " Since the Al  \\mathrm{K}\\alpha  intensities emitted from the ﬁlms are a function not only of the atomic number of the substrate, but also of that of the applied accelerating voltage, it is meaningful to present the results also as a function of the accelerating voltage for the six ﬁlms for a ﬁxed substrate. This is done in Fig. 3 for the beryllium (top) and titanium (bottom) substrates and in Fig. 4 for the molybdenum (top) and tungsten (bottom) substrates. Again, the agreement between measurements and calculations is remarkably good."
+        },
+        "text_3": {
+            "text_bbox": [
+                46,
+                679.710205078125,
+                285,
+                770.5459594726562
+            ],
+            "text_content": " In view of the huge number of measured data collected in the present investigation ( 1060\\;k  ratios for Al  \\mathrm{K}\\alpha  from the ﬁlm element and  872~k  ratios from the substrate ele- ments), it is impossible to judge the overall performance of the present TFA program (or any other thin-ﬁlm pro- gram, for that matter) by mere inspection of a relatively small number of graphical representations of the measured and calculated results. We chose, therefore, an approach"
+        },
+        "text_4": {},
+        "text_5": {
+            "text_bbox": [
+                309,
+                500.38677978515625,
+                548,
+                737.1723022460938
+            ],
+            "text_content": " which is commonly used in tests on the performance of bulk correction programs. In this approach the   k  ratio (k^{\\prime})  for the given entry in the database under the spe- ciﬁc experimental conditions is calculated and compared with the measured value  (k) . The ratio k^{\\prime}/k  is then dis- played in a histogram, showing the number of analyses vs the value of k^{\\prime}/k , and the narrowness of the histogram (in terms of the relative root-mean-square value in  \\% ), together with the mean value of the distribution are then used as a ﬁnal measure of success. Figure 5 shows the results which were obtained in the present case. The results must be regarded as excellent, certainly if one takes into consideration that in a number of cases (which have still been included in the ﬁnal database) the experimen- tal conditions for thin-ﬁlm analysis are not suitable at all. Examples of these cases are when the accelerating volt- age for a given ﬁlm thickness is simply too low, so that the   \\phi(\\rho z) curve for the ﬁlm element barely touches on the substrate. It is evident that the results could become very much better if such cases were eliminated from the database."
+        },
+        "text_6": {
+            "text_bbox": [
+                309,
+                734.711181640625,
+                548,
+                770.5961303710938
+            ],
+            "text_content": " As mentioned before, a wide variety of substrate ele- ments was also measured from underneath the ﬁlms. All possible \\mathbf{X} -ray lines that could be excited were measured"
+        }
+    },
+    "page_idx_5": {
+        "text_0": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {
+            "text_bbox": [
+                46,
+                544.36279296875,
+                285,
+                770.5823364257812
+            ],
+            "text_content": " and the   k  ratios were also included in one large data ﬁle. Figure 6 shows the results obtained for the silicon (top) and titanium (bottom) substrates, and Fig. 7 gives similar results for the much heavier germanium (top) and molybdenum (bottom) substrates. Again, it appears evident that satisfactory agreement is obtained between calculations and measurements, with very few excep- tions. The latter are connected again with those cases where the conditions for thin-ﬁlm analysis are unsuit- able: when the accelerating voltage for the ﬁlm thick- ness at hand is low and the   \\phi(\\rho z) curve hardly extends into the substrate. The results of the overall statistical analysis for the substrate elements, similar to the one performed before for the ﬁlm element, are shown in Fig. 8. After the elimination of the results obtained under totally unsuitable experimental conditions, most satisfac- tory mean   k^{\\prime}/k  (1.0125) and r.m.s. values  (3.6670\\%)  are obtained. Full details of the complete database can be found in the Appendix and/or are available from the authors."
+        },
+        "text_4": {},
+        "text_5": {},
+        "text_6": {}
+    },
+    "page_idx_6": {
+        "text_0": {},
+        "text_1": {},
+        "text_2": {},
+        "text_3": {
+            "text_bbox": [
+                46,
+                578.0267944335938,
+                285,
+                680.4327392578125
+            ],
+            "text_content": " The results presented in this paper clearly show that accu- rate analysis of thin ﬁlms over a wide range of experimen- tal conditions is possible, especially if the accelerating voltage used in the measurements is suitable for the spe- ciﬁc ﬁlm thickness at hand. In all cases it is advisable to apply a sufﬁciently high voltage so that the \\phi(\\rho z) curve of the ﬁlm element extends relatively deep into the substrate. In other words, the mass thickness of the ﬁlm should rep- resent only a minor fraction of the total range of   \\phi(\\rho z) ."
+        },
+        "text_4": {
+            "text_bbox": [
+                46,
+                678.727294921875,
+                285,
+                770.6046752929688
+            ],
+            "text_content": " As Figs 1 and 2 indicate, the calculations of the inten- sities emitted from a ﬁlm with given mass thickness for a wide variety of substrates closely follow the measure- ments. This means that if the TFA program were to be used the other way around, virtually constant thicknesses would be found, irrespective of the atomic number of the substrate. This is, of course, one of the two major goals mentioned in the Introduction."
+        },
+        "text_5": {},
+        "text_6": {
+            "text_bbox": [
+                309,
+                547.8467407226562,
+                548,
+                671.4937133789062
+            ],
+            "text_content": " The other major goal was that the calculations would closely follow the measurements as a function of accel- erating voltage for a given ﬁlm thickness on a speciﬁc substrate. The success of these calculations can be judged from Figs 3 and 4 for a small selection of substrates, rang- ing from Be to Bi. The only noticeable deviations can be found in cases where the conditions are not suitable: low accelerating voltage, heavy substrate, e.g. W, and thick ﬁlm (Fig. 4, bottom). If such results were to be excluded from the histogram in Fig. 5, then, of course, very much improved results could be obtained."
+        },
+        "text_7": {
+            "text_bbox": [
+                309,
+                670.6461181640625,
+                548,
+                770.5565795898438
+            ],
+            "text_content": " The fact that the mean   k^{\\prime}/k  value comes out closely around 1.0 means, of course, nothing else than that the k ratios that we calculate agree closely with those expected from the mass thicknesses adopted in Table 2. If one were to insist on adopting the RBS values, then systematic shifts in the centering of the histogram would be observed. What we consider of much more importance, however, is the narrowness in the histogram, which reﬂects the ability of the program to yield a remarkably consistent \\mathsf{k}^{\\prime}/\\mathsf{k}\\!=\\!1.0125 \\mathbf{\\lambda=}3.6670\\ \\%"
+        }
+    },
+    "page_idx_7": {
+        "text_0": {
+            "text_bbox": [
+                99,
+                80,
+                210,
+                88
+            ],
+            "text_content": ""
+        },
+        "text_1": {},
+        "text_2": {
+            "text_bbox": [
+                309,
+                66.34674072265625,
+                548,
+                124.98395538330078
+            ],
+            "text_content": " mass thickness over a wide range of atomic numbers of the substrates and a large range in accelerating voltage. Any statement about a systematic error requires an exact knowledge about the true ‘reference’ value, which will presumably never be known."
+        },
+        "text_3": {
+            "text_bbox": [
+                309,
+                122.6453857421875,
+                548,
+                327.67132568359375
+            ],
+            "text_content": " As far as the substrate elements are concerned, sim- ilar remarks apply as in the case of the ﬁlm element: low accelerating voltages for relatively thick ﬁlms should be avoided, although, surprisingly, there are also prob- lems sometimes with the thinnest ﬁlms, for no good reason (Figs 6 and 7). Obviously, it can be difﬁcult enough to measure k  ratios which differ only very slightly from unity. This observation, in conjunction with the fact that the slightest deviation in the substrate k  ratio can produce a large deviation in the mass thickness of the ﬁlm if the program is run the other way around, can make it somewhat tricky to use the measured   k ratio of the substrate element exclusively in order to ﬁnd the mass thickness of the ﬁlm. In all cases much more weight should be assigned to the signals emitted by the ﬁlm elements; after all, the emitted ﬁlm sig- nals are more or less directly proportional to the ﬁlm thickness."
+        },
+        "text_4": {},
+        "text_5": {
+            "text_bbox": [
+                46,
+                368.1241455078125,
+                286,
+                612.3743896484375
+            ],
+            "text_content": " 1. Packwood RH, Brown JD. X -Ray Spectrom. 1981;  10 : 138. 2. Bastin GF, van Loo FJJ, Heijligers HJM. X-Ray Spectrom. 1984;  13 : 91. 3. Bastin GF, Heijligers HJM. In Electron Probe Quantitation, Workshop at the National Bureau of Standards, Gai- thersburg, Maryland, 1988, Heinrich KFJ, Newbury DE (eds). Plenum Press: New York, 1991; 145–161. 4. Pouchou JL, Pichoir F. Rech. A´ erospat. 1984;  3 : 13. 5. Pouchou JL, Pichoir F, Boivin D. (a) Proceedings of 12th ICXOM, 28 Aug–1 Sep 1989, Cracow, Poland. Jasienska S, Maksymowicz LJ (eds). Cracow Academy of Mining and Metallurgy, 1990; 52; (b) Further Improvements in Quantitation Procedures for X-ray Microanalysis, ONERA Report TP 157, 1989. 6. Bastin GF, Dijkstra JM, Heijligers HJM. \\boldsymbol{X} -Ray Spectrom. 1998;  27 : 3. 7. Merlet C. Inst. Phys. Conf. Ser. 1992; No. 130; 123. 8. Bastin GF, Heijligers HJM. Scanning 1990;  12 : 225. 9. Pouchou JL, Pichoir F. Rech. A´ erospat. 1984;  5 : 349. 10. Packwood RH, Milliken KS. A general equation for predicting x-ray intensitites from stratified samples in the electron microprobe, CANMET Report No. PMRL/85-25 (TR), May 1985. 11. August H-J, Wernisch J. Scanning 1987;  9 : 145. 12. Hunger H-J. Scanning 1988;  10 : 65. 13. Waldo RA. In Microbeam Analysis, Newbury DE (ed). San Francisco Press: San Francisco, 1988; 310–314."
+        },
+        "text_6": {
+            "text_bbox": [
+                309,
+                368.30413818359375,
+                549,
+                612.37060546875
+            ],
+            "text_content": " 14. Willich P, Obertop D. Surf. Interface Anal. 1988;  13 : 20. 15. Willich P, Obertop D. J. Phys. Colloque 1989;  C-5 : 285. 16. Kyser DF, Murata K. In Proceedings of a Workshop on the Use of Monte Carlo Calculations in Electron Probe Microanalysis and Scanning Electron Microscopy. Heinrich KFJ, Newbury DE, Yakowitz H (eds). NBS Special Publication No. 460. National Bureau of Standards: Washington, DC, 1976; 129–138. 17. Ammann N. Thesis MS, R. W. T. H. Aachen, 1989. 18. Bastin GF, Heijligers HJM, Dijkstra JM. In Proceedings of the XIIth International Congress for Electron Microscopy, Seattle (Washington, USA), August 1990, Peachey LD, Williams DB (eds). San Francisco Press: San Francisco, 1990; 216. 19. Bastin GF, Dijkstra JM, Heijligers HJM. In Proceedings of the 50th Annual Meeting of the Electron Microscopy Society of America/27th Annual Meeting of the Microbeam Analysis Society/19th Annual Meeting of the Microscopical Society of Canada, Baily GW, Bentley J, Small JA (eds). San Francisco Press: San Francisco, 1992; 1648. 20. Bastin GF, Dijkstra JM, Heijligers HJM, Klepper D. Micro- beam Anal. 1993;  2 : 29–43. 21. Pouchou JL, Pichoir F. In Proceedings of the 11th Inter- national Congress on X-Ray Optics and Microanalysis, Brown JD, Packwood RH (eds). Graphic Services, UWO: London, Canada, 1986; 249. 22. Waldo RA. In Microbeam Analysis, Howitt DE (ed). San Francisco Press: San Francisco, 1991; 45–53."
+        },
+        "text_7": {},
+        "text_8": {}
+    },
+    "page_idx_8": {
+        "text_0": {}
+    },
+    "page_idx_9": {
+        "text_0": {}
+    },
+    "page_idx_10": {
+        "text_0": {}
+    },
+    "page_idx_11": {
+        "text_0": {}
+    },
+    "page_idx_12": {
+        "text_0": {}
+    },
+    "page_idx_13": {
+        "text_0": {}
+    },
+    "page_idx_14": {
+        "text_0": {}
+    },
+    "page_idx_15": {
+        "text_0": {}
+    },
+    "page_idx_16": {
+        "text_0": {}
+    },
+    "page_idx_17": {
+        "text_0": {}
+    },
+    "page_idx_18": {
+        "text_0": {}
+    },
+    "page_idx_19": {
+        "text_0": {}
+    },
+    "page_idx_20": {
+        "text_0": {}
+    },
+    "page_idx_21": {
+        "text_0": {}
+    },
+    "page_idx_22": {
+        "text_0": {}
+    },
+    "page_idx_23": {
+        "text_0": {}
+    },
+    "page_idx_24": {
+        "text_0": {}
+    },
+    "page_idx_25": {
+        "text_0": {}
+    },
+    "page_idx_26": {
+        "text_0": {}
+    }
+}

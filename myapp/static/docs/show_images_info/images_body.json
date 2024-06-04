@@ -1,0 +1,191 @@
+{
+    "page_idx_0": {},
+    "page_idx_1": {},
+    "page_idx_2": {},
+    "page_idx_3": {},
+    "page_idx_4": {
+        "image_0": {
+            "image_bbox": [
+                45,
+                70,
+                286,
+                478
+            ],
+            "image_path": "58f5f8568090b55aa19701a011994ffb6877095c28cdefc417e9a13b45e4d0df.jpg",
+            "image_body_bbox": [
+                52,
+                70,
+                278,
+                418
+            ]
+        },
+        "image_1": {
+            "image_bbox": [
+                308,
+                69,
+                549,
+                485
+            ],
+            "image_path": "1065de1abd1cadc2bb247676f9906755c0f473247d4e6fa485c8989e6f37924b.jpg",
+            "image_body_bbox": [
+                313,
+                69,
+                542,
+                424
+            ]
+        }
+    },
+    "page_idx_5": {
+        "image_0": {
+            "image_bbox": [
+                45,
+                101,
+                284,
+                293
+            ],
+            "image_path": "41c1e05d513f7b804e1d992dc813304c19d59a8374d3333850e8bd3cf6124a59.jpg",
+            "image_body_bbox": [
+                45,
+                101,
+                280,
+                261
+            ]
+        },
+        "image_1": {
+            "image_bbox": [
+                44,
+                301,
+                287,
+                524
+            ],
+            "image_path": "13c21d38fcc1362fc82c9cabd1d84f178a53a8bc233e58ffd9f9704b5710f356.jpg",
+            "image_body_bbox": [
+                46,
+                301,
+                280,
+                461
+            ]
+        },
+        "image_2": {
+            "image_bbox": [
+                310,
+                68,
+                546,
+                254
+            ],
+            "image_path": "fe09a3eb984db6684364631385c266cd5513602020be7ff30a60d1cfa71d8fcf.jpg",
+            "image_body_bbox": [
+                310,
+                98,
+                539,
+                254
+            ]
+        },
+        "image_3": {
+            "image_bbox": [
+                307,
+                293,
+                550,
+                520
+            ],
+            "image_path": "1f6051a2787454e8b772387a474d9558e2c9fb009e82897c7085d845b761b8de.jpg",
+            "image_body_bbox": [
+                310,
+                293,
+                539,
+                449
+            ]
+        },
+        "image_4": {
+            "image_bbox": [
+                307,
+                563,
+                549,
+                770
+            ],
+            "image_path": "173a613816d20c92063836929591692087caa931fbd48d182d67c993fc3784fd.jpg",
+            "image_body_bbox": [
+                311,
+                563,
+                544,
+                719
+            ]
+        }
+    },
+    "page_idx_6": {
+        "image_0": {
+            "image_bbox": [
+                48,
+                68,
+                279,
+                369.75
+            ],
+            "image_path": "d206376fcbdfb5d40b8062cd9b015bec5715e1d3dc9020f2a5c1580d84285fa0.jpg",
+            "image_body_bbox": [
+                48,
+                95,
+                278,
+                448
+            ]
+        },
+        "image_1": {
+            "image_bbox": [
+                46,
+                370.25,
+                285,
+                520
+            ]
+        },
+        "image_2": {
+            "image_bbox": [
+                308,
+                80,
+                548,
+                530
+            ],
+            "image_path": "a8c3982ef699ec4dd4f0491002bd9ab51eca122382be5879f2e597c6122fe6a3.jpg",
+            "image_body_bbox": [
+                311,
+                80,
+                545,
+                465
+            ]
+        }
+    },
+    "page_idx_7": {
+        "image_0": {
+            "image_bbox": [
+                44,
+                94,
+                286,
+                332
+            ],
+            "image_path": "420279c71166109d995bbb2108e977755c99fbba5fc856438dfa17eed68b4482.jpg",
+            "image_body_bbox": [
+                57,
+                94,
+                268,
+                235
+            ]
+        }
+    },
+    "page_idx_8": {},
+    "page_idx_9": {},
+    "page_idx_10": {},
+    "page_idx_11": {},
+    "page_idx_12": {},
+    "page_idx_13": {},
+    "page_idx_14": {},
+    "page_idx_15": {},
+    "page_idx_16": {},
+    "page_idx_17": {},
+    "page_idx_18": {},
+    "page_idx_19": {},
+    "page_idx_20": {},
+    "page_idx_21": {},
+    "page_idx_22": {},
+    "page_idx_23": {},
+    "page_idx_24": {},
+    "page_idx_25": {},
+    "page_idx_26": {}
+}

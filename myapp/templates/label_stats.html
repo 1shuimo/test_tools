@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>标签统计图表</title>
+    {% load static %}
+    <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+</head>
+<body>
+    <button id="backToHomeBtn">返回主页</button>
+    <div id="labelBarChart" style="width: 600px; height: 400px;"></div>
+    <div id="labelPieChart" style="width: 600px; height: 400px; margin-top: 20px;"></div>
+    <script src="{% static 'label_stats.js' %}" type="module"></script>
+</body>
+</html>

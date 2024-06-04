@@ -1,0 +1,381 @@
+{
+    "page_idx_0": {},
+    "page_idx_1": {},
+    "page_idx_2": {
+        "table_0": {
+            "table_bbox": [
+                361,
+                69,
+                493,
+                162
+            ],
+            "image_path": "a4e832027490f492746c8605bef03758f77ed8b264035dffbf638709bce2de57.jpg",
+            "table_body_bbox": [
+                361,
+                69,
+                493,
+                162
+            ]
+        }
+    },
+    "page_idx_3": {
+        "table_0": {
+            "table_bbox": [
+                44,
+                631,
+                286,
+                766
+            ],
+            "image_path": "07870ee11a772cbf0411b0f855cae77a1b41120b926845b4da915c6ee47faccf.jpg",
+            "table_body_bbox": [
+                44,
+                631,
+                286,
+                766
+            ]
+        }
+    },
+    "page_idx_4": {},
+    "page_idx_5": {},
+    "page_idx_6": {},
+    "page_idx_7": {
+        "table_0": {
+            "table_bbox": [
+                47,
+                658,
+                538,
+                768
+            ],
+            "image_path": "b129e998ab47062e10ef16c6ab4d42331da1431cab3b17474445be0a13093d81.jpg",
+            "table_body_bbox": [
+                47,
+                658,
+                538,
+                768
+            ]
+        }
+    },
+    "page_idx_8": {
+        "table_0": {
+            "table_bbox": [
+                119,
+                67,
+                476,
+                770
+            ],
+            "image_path": "fcd0816029f4f6a0c9e81f1cbc7945b463d5ba08a60b076d7a439804f4607ae8.jpg",
+            "table_body_bbox": [
+                119,
+                67,
+                476,
+                770
+            ]
+        }
+    },
+    "page_idx_9": {
+        "table_0": {
+            "table_bbox": [
+                116,
+                67,
+                472,
+                770
+            ],
+            "image_path": "210404e7fa0af90608c44ae56d8e136964b9886b5383515d5ff0267ec8a9ed5c.jpg",
+            "table_body_bbox": [
+                116,
+                67,
+                472,
+                770
+            ]
+        }
+    },
+    "page_idx_10": {
+        "table_0": {
+            "table_bbox": [
+                115,
+                67,
+                472,
+                770
+            ],
+            "image_path": "9af3d56485608c15e4703d66f034d5ad63d2839c36352cea2ebb9602f31a6427.jpg",
+            "table_body_bbox": [
+                115,
+                67,
+                472,
+                770
+            ]
+        }
+    },
+    "page_idx_11": {
+        "table_0": {
+            "table_bbox": [
+                115,
+                67,
+                471,
+                770
+            ],
+            "image_path": "abf6542105e9eaaeb1790f697e3ab33603c8d292f3898bed0ae509011fab1cfb.jpg",
+            "table_body_bbox": [
+                115,
+                67,
+                471,
+                770
+            ]
+        }
+    },
+    "page_idx_12": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                68,
+                472,
+                770
+            ],
+            "image_path": "cb365a71a9ea05bc8c7343fab28a1fccda637218c92bd6c448a2cb5f41949459.jpg",
+            "table_body_bbox": [
+                114,
+                68,
+                472,
+                770
+            ]
+        }
+    },
+    "page_idx_13": {
+        "table_0": {
+            "table_bbox": [
+                115,
+                67,
+                473,
+                770
+            ],
+            "image_path": "47e91082d9d13a5577dee6ae4f3ac47ba278aa1bfeb2f07eaa2732d5c39924a3.jpg",
+            "table_body_bbox": [
+                115,
+                67,
+                473,
+                770
+            ]
+        }
+    },
+    "page_idx_14": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "fc70b9f921376488a0e166ac6ecd03cc5f7b0410e353f52ba1148bd028903bac.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_15": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                68,
+                472,
+                771
+            ],
+            "image_path": "9c416f48da96a1494ef7ce6d0389ba3607696322147a7a8da7122d9ba698bd86.jpg",
+            "table_body_bbox": [
+                114,
+                68,
+                472,
+                771
+            ]
+        }
+    },
+    "page_idx_16": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "ce3fe9808829062a2ed4b18d541c725412ed9ed3bc9770d71d021d853ca35aa4.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_17": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "1537a2174600df539c15b584d9f9b9874fb79ef3bec6a02e9d19ff35c185a8e6.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_18": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "3215e072c551619baea48354c49bb8ff38a138606aae607fa29ca6e2bf075058.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_19": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "2c190e187a53401e46158ccb1c85d15f8a29abe4f3514837838565e1221ed413.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_20": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                473,
+                770
+            ],
+            "image_path": "33d2d0a24538f6dac1f0e7a4464ec48d6eb063dfaa31311a02cc87f6647254f0.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                473,
+                770
+            ]
+        }
+    },
+    "page_idx_21": {
+        "table_0": {
+            "table_bbox": [
+                114,
+                67,
+                474,
+                770
+            ],
+            "image_path": "836d45aea3a9da1810e818fabe0ba294a17759de0fa0bbfbda4713fd5ac8720e.jpg",
+            "table_body_bbox": [
+                114,
+                67,
+                474,
+                770
+            ]
+        }
+    },
+    "page_idx_22": {
+        "table_0": {
+            "table_bbox": [
+                113,
+                67,
+                473,
+                770
+            ],
+            "image_path": "8da5e4b9c1c7aee1771377445945eea33eea85418bdf58a9820a5f9f9f965cea.jpg",
+            "table_body_bbox": [
+                113,
+                67,
+                473,
+                770
+            ]
+        }
+    },
+    "page_idx_23": {
+        "table_0": {
+            "table_bbox": [
+                113,
+                68,
+                478,
+                770
+            ],
+            "image_path": "fe90127d71eb213503177aaf47a19031d3f6d61880c2ce03ffec3f306e9e121e.jpg",
+            "table_body_bbox": [
+                113,
+                68,
+                478,
+                770
+            ]
+        }
+    },
+    "page_idx_24": {
+        "table_0": {
+            "table_bbox": [
+                113,
+                68,
+                478,
+                771
+            ],
+            "image_path": "eeb63edf287a8f46b6d95f69366694be404760d610c8710b5cca9bf71e689813.jpg",
+            "table_body_bbox": [
+                113,
+                68,
+                478,
+                771
+            ]
+        }
+    },
+    "page_idx_25": {
+        "table_0": {
+            "table_bbox": [
+                113,
+                68,
+                478,
+                770
+            ],
+            "image_path": "8f7a60f7a441c864401eaec06a428cea82b95fd85a2d9ff395ef0af62b00f69e.jpg",
+            "table_body_bbox": [
+                113,
+                68,
+                478,
+                770
+            ]
+        }
+    },
+    "page_idx_26": {
+        "table_0": {
+            "table_bbox": [
+                113,
+                67,
+                483,
+                523
+            ],
+            "image_path": "e6effa6c29f764ebf4b5a345f0352c550b54b615cb795d3a7f7e8256c9cb92fa.jpg",
+            "table_body_bbox": [
+                113,
+                67,
+                483,
+                523
+            ]
+        }
+    }
+}

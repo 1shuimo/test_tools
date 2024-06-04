@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer with Paging</title>
+    <!-- 引入PDF.js库 -->
+    {% load static %}
+    <script src="{% static 'js/build/pdf.mjs' %}" type="module"></script>
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+    <!-- 引入KaTeX库 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"></script>
+</head>
+<body>
+    <h1>PDF Viewer with Paging</h1>
+    <form id="folderForm">
+        <label for="folderPath">Enter folder path:</label>
+        <input type="text" id="folderPath" name="folderPath">
+        <button type="submit">Submit</button>
+    </form>
+    <button id="viewStatsBtn">查看标签统计图表</button>
+    <button id="prevBtn">前一个pdf</button>
+    <button id="nextBtn">后一个pdf</button>
+    <div id="notification" class="notification">
+        <span id="notification-message"></span>
+        
+    </div>    
+    <div class="button-group">
+        <button id="tables_body">抽取表格body</button>
+        <button id="tables_caption">抽取表格caption</button>
+        <button id="images_body">抽取图片</button>
+        <!-- 抽取图片描述的按钮 -->
+        <button id="images_caption">抽取图片描述</button>
+        <button id="extract-interline_equations">抽取行间公式</button>
+        <button id="extract-inline_equations">抽取行内公式</button>
+        <!-- 抽取废弃块的按钮 -->
+        <button id="discarded_blocks">抽取丢弃块</button>
+        <!-- 排序段落的按钮 -->
+        <button id="para_sort">抽取排序段落</button>
+        <!-- 抽取标题的按钮 -->
+        <button id="title">抽取标题</button>
+        <!-- 抽取文本的按钮 -->
+        <button id="extract_text">抽取文本</button>
+    </div>
+    <div class="button-group">
+        <button id="prev">前一页</button>
+        <button id="next">后一页</button>
+    </div>
+    <div id="text-container" style="float: right; width: 50%;"></div>
+    <div id="formulas-container"style="float: right; width: 50%;"></div>
+    <div id="image-container" style="float: right; width: 50%;"></div>
+    <p>Page: <span id="page_num"></span> / <span id="page_count"></span></p>
+    <canvas id="the-canvas"></canvas>
+    <!-- 标注表单 -->
+    <form id="annotation-form" method="post"style="float: left; width: 20%;">
+    {% csrf_token %}
+    <input type="hidden" name="item_id" id="item_id">
+    <button type="button" name="label" value="label_1" class="annotation-btn" data-label="通过">通过</button>
+    <button type="button" name="label" value="label_2" class="annotation-btn" data-label="不通过">不通过</button>
+    <button type="button" name="label" value="label_3" class="annotation-btn" data-label="图片、表格Caption混入">图片、表格Caption混入</button>
+    <button type="button" name="label" value="label_4" class="annotation-btn" data-label="行内公式缺失">行内公式缺失</button>
+    <button type="button" name="label" value="label_5" class="annotation-btn" data-label="行内公式转换错误">行内公式转换错误</button>
+    <button type="button" name="label" value="label_6" class="annotation-btn" data-label="行间公式转换错误">行间公式转换错误</button>
+    <button type="button" name="label" value="label_7" class="annotation-btn" data-label="阅读顺序错误">阅读顺序错误</button>
+    <button type="button" name="label" value="label_8" class="annotation-btn" data-label="页眉、页脚、边注、footnote混入正文">页眉、页脚、边注、footnote混入正文</button>
+    <button type="button" name="label" value="label_9" class="annotation-btn" data-label="文本分段错误">文本分段错误</button>
+    <button type="button" name="label" value="label_10" class="annotation-btn" data-label="抽取内容不完整">抽取内容不完整</button>
+    
+    </form>
+    <button id="exportBtn">导出JSON</button>
+    <div id="success-message" style="display:none;">标注成功！</div>
+    <script src="{% static 'pdf_viewer.js' %}" type="module"></script>
+</body>
+</html>
+

@@ -1,0 +1,45 @@
+/* styles.css */
+.button-group {
+    display: flex;
+    flex-direction: row; ; /* 子元素水平排列 */
+    margin-bottom: 10px; /* 和下一个容器的间距 */
+}
+#the-canvas {
+    width: 50%;
+    float: left;
+}
+
+#image-container {
+    width: 50%;
+    float: right;
+}
+
+#formulas-container {
+    width: 50%;
+    float: right;
+}
+
+.text-content {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+.notification {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    z-index: 1000;
+}
+
+.annotation-btn.annotated {
+    background-color: grey;
+    color: white;
+}

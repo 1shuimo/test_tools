@@ -1,0 +1,920 @@
+{
+    "page_idx_0": {
+        "discarded_0": {
+            "discarded_bbox": [
+                79,
+                44,
+                206,
+                62
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                429,
+                782,
+                548,
+                804
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                45,
+                782,
+                229,
+                792
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                46,
+                742,
+                285,
+                769
+            ]
+        }
+    },
+    "page_idx_1": {
+        "discarded_0": {
+            "discarded_bbox": [
+                536,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                189,
+                44,
+                401,
+                54
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                45,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_2": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                59,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                222,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                46,
+                784,
+                193,
+                793
+            ]
+        }
+    },
+    "page_idx_3": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                52
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                190,
+                44,
+                401,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                45,
+                785,
+                193,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                423,
+                784,
+                549,
+                793
+            ]
+        }
+    },
+    "page_idx_4": {
+        "discarded_0": {
+            "discarded_bbox": [
+                221,
+                44,
+                372,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                46,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                45,
+                784,
+                193,
+                793
+            ]
+        }
+    },
+    "page_idx_5": {
+        "discarded_0": {
+            "discarded_bbox": [
+                189,
+                43,
+                402,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                794
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_6": {
+        "discarded_0": {
+            "discarded_bbox": [
+                46,
+                45,
+                58,
+                52
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                221,
+                44,
+                372,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                45,
+                784,
+                193,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                424,
+                784,
+                547,
+                793
+            ]
+        }
+    },
+    "page_idx_7": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                190,
+                44,
+                401,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_8": {
+        "discarded_0": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                44,
+                785,
+                194,
+                794
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                423,
+                786,
+                548,
+                795
+            ]
+        }
+    },
+    "page_idx_9": {
+        "discarded_0": {
+            "discarded_bbox": [
+                189,
+                44,
+                401,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                785,
+                548,
+                795
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                786,
+                194,
+                794
+            ]
+        }
+    },
+    "page_idx_10": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                44,
+                786,
+                194,
+                794
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                424,
+                786,
+                548,
+                795
+            ]
+        }
+    },
+    "page_idx_11": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                189,
+                44,
+                401,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                785,
+                548,
+                795
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                785,
+                194,
+                794
+            ]
+        }
+    },
+    "page_idx_12": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                44,
+                785,
+                194,
+                794
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                424,
+                786,
+                548,
+                795
+            ]
+        }
+    },
+    "page_idx_13": {
+        "discarded_0": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                785,
+                548,
+                795
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                785,
+                194,
+                794
+            ]
+        }
+    },
+    "page_idx_14": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                44,
+                785,
+                194,
+                794
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                424,
+                786,
+                548,
+                795
+            ]
+        }
+    },
+    "page_idx_15": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_16": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_17": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_18": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_19": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                547,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                189,
+                44,
+                401,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_20": {
+        "discarded_0": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_21": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_22": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                220,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_23": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_24": {
+        "discarded_0": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                219,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_25": {
+        "discarded_0": {
+            "discarded_bbox": [
+                535,
+                45,
+                548,
+                52
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                423,
+                784,
+                548,
+                793
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                189,
+                44,
+                402,
+                53
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        }
+    },
+    "page_idx_26": {
+        "discarded_0": {
+            "discarded_bbox": [
+                219,
+                44,
+                373,
+                53
+            ]
+        },
+        "discarded_1": {
+            "discarded_bbox": [
+                45,
+                45,
+                58,
+                53
+            ]
+        },
+        "discarded_2": {
+            "discarded_bbox": [
+                44,
+                784,
+                194,
+                793
+            ]
+        },
+        "discarded_3": {
+            "discarded_bbox": [
+                424,
+                784,
+                548,
+                793
+            ]
+        }
+    }
+}
